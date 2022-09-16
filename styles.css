@@ -1,0 +1,105 @@
+.container { 
+    border: 5px solid black;
+    margin: auto;
+    width: 600px;
+    height: 800px;
+    
+    
+} 
+
+
+.image img { 
+   
+    height: 400px;
+    width: 600px;
+    object-fit: fill;
+    
+    
+}
+
+
+.footer { 
+    
+    margin: 5px;
+    
+} 
+
+.title { 
+
+        
+        display: inline;
+        height: 90px;
+
+    
+    
+} 
+.profile { 
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+
+}
+.username{
+    float: left; 
+    padding-left: 5px;
+    padding-bottom: 10px;
+    
+}
+
+.menu  {
+
+    padding-top: 10px;
+    float: right; 
+    padding-right: 10px;
+   
+    
+}
+
+.footer{
+    width: 600px;
+    height: 10px;
+    display: inline;
+    padding-top: 10px;
+    
+}
+
+.actions-left {
+    padding-left: 15px;
+    padding-right: 5px;
+    float: left; 
+    padding-top: 10px;
+    
+
+} 
+
+
+.actions-right {
+    
+    padding-right: 15px; 
+    float: right;
+    padding-top: 10px;
+    
+    
+} 
+.heart, .comment, .share {
+    
+    padding-right: 5px; 
+    display:inline;
+} 
+
+.parrafo {
+    width: 600px;
+    height: 190px;
+    padding-left: 15px;
+    padding-top: 20px;
+    font-size: 17px;
+    
+    
+}
+.parrafo p {
+    padding-right: 15px;
+}
+
